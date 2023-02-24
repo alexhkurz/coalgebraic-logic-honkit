@@ -1,6 +1,6 @@
 # README 
 
-How I made this book:
+How I tried to make this book:
 
 ## Basic setup
 
