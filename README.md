@@ -18,12 +18,6 @@ npx honkit serve
 
 ### Step 2
 
-Copy some content into a folder `content`.
-
-Adjust the file `SUMMARY.md` accordingly.
-
-### Step 3
-
 Make honkit work with latex.
 
 add `book.json`:
@@ -70,6 +64,13 @@ Error [PluginError]: Error with plugin "mathjax": Unexpected token '<<'
 }
 ```
 
+### Step 3
+
+(planned)
+
+Copy some content into a folder `content`.
+
+Adjust the file `SUMMARY.md` accordingly.
 
 
 
