@@ -1,6 +1,6 @@
 # README 
 
-[How to make a book](how-to.md)
+[How to make a book with Honkit](https://github.com/alexhkurz/coalgebraic-logic-honkit/blob/main/how-to.md).
 
 ## Introduction
 
